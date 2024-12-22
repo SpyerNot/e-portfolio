@@ -7,7 +7,7 @@ my_portfolio = popover.checkbox("My e-portfolio project")
 if tackling_obesity:
     st.link_button("Fitness app", "https://designinnovationapp-4wh5oserqjkuznsnik2pwq.streamlit.app")
     st.link_button("Github repo","https://github.com/SpyerNot/design_innovation_app")
-else:
+if my_portfolio:
     st.write("I wrote this e-portfolio from scratch using python so no app link is provided since your already here :D")
     st.link_button("Github repo","https://e-portfolio-8wugkwxplflpwfpwjzgirj.streamlit.app")
 
