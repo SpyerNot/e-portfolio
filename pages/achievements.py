@@ -32,6 +32,6 @@ with col12:
     st.image("cert/juneconf.png",caption="BuildingBloCS June Conference 2024 (Sec 3)")
 col13,col14,col15=st.columns(3)
 with col13:
-    st.image("cert/junehack.png",caption="BuildingBloCS June Conference Hackathon 2024",width=230)
+    st.image("cert/junehack.png",caption="BuildingBloCS June Conference Hackathon 2024",width=245)
 with col14:
     st.image("cert/top2024.jpg",caption="Top in Computing 2024 (Sec 3)",width=230)
