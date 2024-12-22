@@ -1,4 +1,6 @@
 import streamlit as st
+from PIL import Image 
+Image.MAX_IMAGE_PIXELS = 1000000000 
 st.title("My achievements")
 col1, col2, col3=st.columns(3)
 with col1:
