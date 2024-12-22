@@ -9,8 +9,8 @@ with col3:
     st.image("cert/emb22023.jpg",caption="Edusave Merit Bursary Sec 2")
 col4,col5,col6=st.columns(3)
 with col4:
-    st.image("cert/alpchange2023.jpg",caption="Applied Learning Programme Changemaker Award Sec 2")
+    st.image("cert/eagles2023.jpg",caption="Edusave")
 with col5:
-    st.image("cert/alpchange2024.jpg",caption="Applied Learning Programme Changemaker Award Sec 3")
+    st.image("cert/alpchange2023.jpg",caption="Applied Learning Programme Changemaker Award Sec 2")
 with col6:
     st.image("cert/alpstellar2024.jpg",caption="Applied Learning Programme Stellar Award Sec 3")
