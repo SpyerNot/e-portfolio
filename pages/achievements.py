@@ -7,4 +7,3 @@ with col2:
     st.image("cert/emb22023",caption="Edusave Merit Bursary Sec 2")
 with col3:
     st.image("cert/alpchange2023",caption="Applied Learning Programme Changemaker award Sec 2")
-    \
