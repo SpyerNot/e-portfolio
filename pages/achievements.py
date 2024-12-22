@@ -1,3 +1,10 @@
 import streamlit as st
 st.title("My achievements")
-st.image("cert/es2022.jpg",caption="Edusave Scholarship Sec 1",use_container_width=True)
+col1,col2,col3=st.columns(3)
+with col1:
+    st.image("cert/es2022",caption="Edusave Scholarship Sec 1")
+with col2:
+    st.image("cert/emb22023",caption="Edusave Merit Bursary Sec 2")
+with col3:
+    st.image("cert/alpchange2023",caption="Applied Learning Programme Changemaker award Sec 2")
+    \
