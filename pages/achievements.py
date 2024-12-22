@@ -18,7 +18,7 @@ col7,col8,col9=st.columns(3)
 with col7:
     st.image("cert/alpinnov2024.jpg",caption="Applied Learning Programme Innovation Award 2024 (Sec 3)")
 with col8:
-    st.image("cert/stellar2024.jpg",caption="Applied Learning Programme Stellar Award 2024 (Sec 3)")
+    st.image("cert/alpstellar2024.jpg",caption="Applied Learning Programme Stellar Award 2024 (Sec 3)")
 with col9:
     st.image("cert/dic2024.jpg",caption="S1 Design Innovation Challenge 2024 2nd prize (Sec 3)")
 col10,col11,col12=st.columns(3)
