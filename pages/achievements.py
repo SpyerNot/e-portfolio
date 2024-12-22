@@ -18,16 +18,16 @@ col7,col8,col9=st.columns(3)
 with col7:
     st.image("cert/alpinnov2024.jpg",caption="Applied Learning Programme Innovation Award 2024 (Sec 3)")
 with col8:
-    st.image("cert/stellar2024",caption="Applied Learning Programme Stellar Award 2024 (Sec 3)")
+    st.image("cert/stellar2024.jpg",caption="Applied Learning Programme Stellar Award 2024 (Sec 3)")
 with col9:
-    st.image("cert/dic2024",caption="S1 Design Innovation Challenge 2024 2nd prize (Sec 3)")
+    st.image("cert/dic2024.jpg",caption="S1 Design Innovation Challenge 2024 2nd prize (Sec 3)")
 col10,col11,col12=st.columns(3)
 with col10:
-    st.image("cert/marchconf",caption="BuildingBloCS March Conference 2024 (A conference for students to learn more about computing) (Sec3)")
+    st.image("cert/marchconf.png",caption="BuildingBloCS March Conference 2024 (A conference for students to learn more about computing) (Sec3)")
 with col11:
-    st.image("cert/marchhack",caption="BuildingBloCS March Conference Hackathon 2024, First Place (Sec 3)")
+    st.image("cert/marchhack.png",caption="BuildingBloCS March Conference Hackathon 2024, First Place (Sec 3)")
 with col12:
-    st.image("cert/juneconf",caption="BuildingBloCS June Conference 2024 (Sec 3)")
+    st.image("cert/juneconf.png",caption="BuildingBloCS June Conference 2024 (Sec 3)")
 col13,col14,col15=st.columns(3)
 with col13:
-    st.image("cert/junehack",caption="BuildingBloCS June Conference Hackathon 2024 (Sec 3)")
+    st.image("cert/junehack.png",caption="BuildingBloCS June Conference Hackathon 2024 (Sec 3)")
