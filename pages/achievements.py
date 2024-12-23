@@ -22,7 +22,7 @@ with col7:
 with col8:
     st.image("cert/alpstellar2024.jpg",caption="Applied Learning Programme Stellar Award 2024 (Sec 3)")
 with col9:
-    st.image("cert/dic2024.jpg",caption="S1 Design Innovation Challenge 2024 2nd prize (Sec 3)",width=175)
+    st.image("cert/dic2024.jpg",caption="S1 Design Innovation Challenge 2024 2nd prize (Sec 3)",width=160)
 col10,col11,col12=st.columns(3)
 with col10:
     st.image("cert/marchconf.png",caption="BuildingBloCS March Conference 2024 (A conference for students to learn more about computing) (Sec3)")
