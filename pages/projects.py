@@ -2,8 +2,8 @@ import streamlit as st
 st.title("My projects")
 st.markdown("Open the popover")
 popover = st.popover("Open me up!!")
-tackling_obesity = popover.checkbox("Tacking Obesity project")
-my_portfolio = popover.checkbox("My e-portfolio project")
+tackling_obesity = popover.radio("Tacking Obesity project")
+my_portfolio = popover.radio("My e-portfolio project")
 if tackling_obesity:
     st.link_button("Fitness app", "https://designinnovationapp-4wh5oserqjkuznsnik2pwq.streamlit.app")
     st.link_button("Github repo","https://github.com/SpyerNot/design_innovation_app")
