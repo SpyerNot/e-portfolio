@@ -10,7 +10,7 @@ if tackling_obesity:
 if my_portfolio:
     st.write("I wrote this e-portfolio from scratch using python so no app link is provided since you are already here :D")
     st.link_button("Github repo","https://e-portfolio-8wugkwxplflpwfpwjzgirj.streamlit.app")
-option = st.radio("Pick a project you would like to view:",["Tackling Obesity","E-portfolio"],disabled=True)
+option = st.radio("Pick a project you would like to view:",["Tackling Obesity","E-portfolio"])
 if option == "Tackling Obesity":
     st.html("<a href='https://designinnovationapp-4wh5oserqjkuznsnik2pwq.streamlit.app/'> Fitness App </a>")
     st.html("<a href='https://github.com/SpyerNot/design_innovation_app'>Github repo</a>")
