@@ -41,4 +41,4 @@ col16,col17,col18=st.columns(3)
 with col16:
     st.image("cert/top2024.jpg",caption="Top in Computing 2024 (Sec 3)")
 with col17:
-    st.image("cert/ybnctf2024.pdf",caption="Yes But No Capture the Flag 2024 (Sec 3)")
+    st.image("cert/ybnctf2024.jpg",caption="Yes But No Capture the Flag 2024 (Sec 3)")
