@@ -12,8 +12,8 @@ if my_portfolio:
     st.link_button("Github repo","https://github.com/SpyerNot/e-portfolio")
 option = st.radio("Pick a project you would like to view:",["Tackling Obesity","E-portfolio"])
 if option == "Tackling Obesity":
-    st.html("<a href='https://designinnovationapp-4wh5oserqjkuznsnik2pwq.streamlit.app'> Fitness App </a>")
-    st.html("<a href='https://github.com/SpyerNot/design_innovation_app'>Github repo</a>")
+    st.link_button("Fitness app","https://designinnovationapp-4wh5oserqjkuznsnik2pwq.streamlit.app")
+    st.link_button("Github Repo","https://github.com/SpyerNot/design_innovation_app")
 if option == "E-portfolio":
     st.write("***You are currently viewing the project E-portfolio, this e-portfolio is written in python***")
     st.html("<a href='https://github.com/SpyerNot/e-portfolio'>Github repo</a>")
