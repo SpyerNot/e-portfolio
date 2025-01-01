@@ -16,5 +16,5 @@ if option == "Tackling Obesity":
     st.link_button("Github Repo","https://github.com/SpyerNot/design_innovation_app")
 if option == "E-portfolio":
     st.write("***You are currently viewing the project E-portfolio, this e-portfolio is written in python***")
-    st.html("<a href='https://github.com/SpyerNot/e-portfolio'>Github repo</a>")
+    st.link_button("Github Repo","https://github.com/SpyerNot/e-portfolio")
 
