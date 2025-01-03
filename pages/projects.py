@@ -1,4 +1,5 @@
 import streamlit as st
+import streamlit.components.v1 as components
 st.title("My projects")
 st.markdown("Open the popover")
 popover = st.popover("Open me up!!")
@@ -19,7 +20,8 @@ if option == "E-portfolio":
     st.link_button("Github Repo","https://github.com/SpyerNot/e-portfolio")
 tab1 = st.tabs(['hi'])
 with tab1:
-    st.components.v1.iframe("https://designinnovationapp-4wh5oserqjkuznsnik2pwq.streamlit.app",scrolling=True)
+    components.iframe("https://designinnovationapp-4wh5oserqjkuznsnik2pwq.streamlit.app", height=500)
+
 
 
 
