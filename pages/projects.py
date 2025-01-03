@@ -18,9 +18,6 @@ if option == "Tackling Obesity":
 if option == "E-portfolio":
     st.write("***You are currently viewing the project E-portfolio, this e-portfolio is written in python***")
     st.link_button("Github Repo","https://github.com/SpyerNot/e-portfolio")
-tab1,tab2 = st.tabs(['hi','hi'])
-with tab1:
-    components.iframe("https://designinnovationapp-4wh5oserqjkuznsnik2pwq.streamlit.app", height=500)
 
 
 
