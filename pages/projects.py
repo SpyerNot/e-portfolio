@@ -19,6 +19,7 @@ if option == "E-portfolio":
     st.link_button("Github Repo","https://github.com/SpyerNot/e-portfolio")
 tab1 = st.tabs(['hi'])
 with tab1:
-    st.components.v1.iframe("https://designinnovationapp-4wh5oserqjkuznsnik2pwq.streamlit.app", height=400, scrolling=True)
+    st.components.v1.iframe("https://designinnovationapp-4wh5oserqjkuznsnik2pwq.streamlit.app",scrolling=True)
+
 
 
