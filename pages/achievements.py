@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image 
 Image.MAX_IMAGE_PIXELS = 1000000000 
-st.title("My achievements")
+st.title("My Achievements")
 col1, col2, col3=st.columns(3)
 with col1:
     st.image("cert/es2022.jpg",caption="Edusave Scholarship 2022 (Sec 1)")
