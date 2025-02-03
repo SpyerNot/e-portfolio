@@ -42,3 +42,8 @@ with col16:
     st.image("cert/top2024.jpg",caption="Top in Computing 2024 (Sec 3)")
 with col17:
     st.image("cert/ybnctf2024.jpg",caption="Yes But No Capture the Flag 2024 (Sec 3)")
+with col18:
+    st.image("cert/nypcyebr2025.png",caption="NYP course taster workshop for Cybersecurity and Digtial Forensics (Sec 4)")
+col19,col20,col21=st.columns(3)
+with col19:
+    st.image("cert/nypssoft2025.png",caption="NYP course taster workshop for Information Technology (Sec 4)")
