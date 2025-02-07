@@ -2,7 +2,7 @@ import streamlit as st
 st.html("<style>.name{font-family: 'Lucida Handwriting', cursive;}</style>")
 st.html("<style>h1{font-size: 40px;}</style>")
 st.html("<h1><b>About Me!</b></h1>")
-col1,col2 = st.column(2)
+col1,col2 = st.columns(2)
 with col1:
     st.html("<p id = 'name', align = 'left'>My name is <span class='name'>Low Li Wen </span> from Serangoon Garden Secondary School I am from Robotics CCA that likes to code. I have learnt the coding languages: Python and Javascript. The markup language HTML and the style sheet CSS. I am a student that likes to smile and laugh a lot in hopes to make other people smile :D ")
 st.html("<div></div>")
