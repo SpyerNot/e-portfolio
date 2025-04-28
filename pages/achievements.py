@@ -47,3 +47,7 @@ with col18:
 col19,col20,col21=st.columns(3)
 with col19:
     st.image("cert/nypsoft2025.png",caption="NYP course taster workshop for Information Technology (Sec 4)")
+with col20:
+    st.image("cert/IDE2024.png",caption="IDE Series Competition (Sec 3)")
+with col21:
+    st.image("Low Li Wen_Hackathon (2).png",caption="BuildingBlocs March Conference Hackathon 2025 (Sec 4)")
