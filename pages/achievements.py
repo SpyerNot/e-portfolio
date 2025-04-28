@@ -50,4 +50,4 @@ with col19:
 with col20:
     st.image("cert/IDE2024.png",caption="IDE Series Competition (Sec 3)")
 with col21:
-    st.image("marchhack2025.png",caption="BuildingBlocs March Conference Hackathon 2025 (Sec 4)")
+    st.image("cert/marchhack2025.png",caption="BuildingBlocs March Conference Hackathon 2025 (Sec 4)")
