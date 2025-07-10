@@ -13,7 +13,9 @@ if my_portfolio:
     st.write("I wrote this e-portfolio from scratch using python so no app link is provided since you are already here :D")
     st.link_button("Github repo","https://github.com/SpyerNot/e-portfolio")
 if translator:
-    st.write("HI!")
+    st.link_button("Translator App","https://translator-ixyqcckissjuf57apt9kec.streamlit.app/")
+    st.link_button("Github repo", "https://github.com/SpyerNot/Translator")
+    st.write("This is one of my hackathon project with my team to solve the issue on slur speech communication")
 option = st.radio("Pick a project you would like to view:",["Tackling Obesity","E-portfolio","Translator"])
 if option == "Tackling Obesity":
     st.link_button("Fitness app","https://designinnovationapp-4wh5oserqjkuznsnik2pwq.streamlit.app")
@@ -22,7 +24,9 @@ if option == "E-portfolio":
     st.write("***You are currently viewing the project E-portfolio, this e-portfolio is written in python***")
     st.link_button("Github Repo","https://github.com/SpyerNot/e-portfolio")
 if option == "Translator":
-    st.write("In progress")
+    st.link_button("Translator App","https://translator-ixyqcckissjuf57apt9kec.streamlit.app/")
+    st.link_button("Github repo", "https://github.com/SpyerNot/Translator")
+    st.write("This is one of my hackathon project with my team to solve the issue on slur speech communication")
 
 
 
