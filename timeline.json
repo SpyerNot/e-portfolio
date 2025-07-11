@@ -173,6 +173,22 @@
             "headline": "My first ever Hackthon!",
             "text":"This is when I competed in my first ever Hackathon! It was by BuildingBloCS, I had to go for a conference to learn things that would be necessary in this Hackathon which is learning NumPy, matplotlib and seaborn and using them in the Hackathon Project. In the end, we got 1st place by showing the data on the topic what makes singaporeans feel like they are sinagporeans. This hackathon also let me wanted to participate in more hackathon to see what I can code out to contribute to the society"
         }
+      },
+      {
+        "media": {
+            "url": "https://drive.google.com/file/d/1PVV_1SthWumUHkZRvyVtQSfhHaxCDayd/view?usp=sharing",
+            "caption": "Me winning and Academic Award",
+            "credit": "@official.sgss"
+        },
+        "start_date": {
+            "year": "2024",
+            "month": "10",
+            "day": "28"
+        },
+        "text": {
+            "headline": "Top in Computing!",
+            "text": "This is when I got Top in Computing in Sec 3. It felt like a dream as I did not expect myself to get Top in Computing but I mean, at least my hardwork paid off right? (if you would like to see the cert, it is in the achievements page)"
+        }
       }
     ]
 }
