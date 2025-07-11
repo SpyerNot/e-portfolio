@@ -63,3 +63,8 @@ with col25:
     st.image("cert/YCEP2025indvi.png",caption="YCEP Finals 2025 Individual Category (Sec 4)")
 with col26:
     st.image("cert/Low Li Wen_Certificate_of_Excellence_Group.png",caption="YCEP Finals 2025 6th Place for Group Category (Sec 4)")
+with col27:
+    st.image("cert/es2024.jpg",caption="Edusave Scholarship 2024 (Sec 3)")
+col28,col29,col30=st.columns(3)
+with col28:
+    st.image("cert/eagles2024.jpg",caption="Edusave Award for Achievement, Good Leadership and Sevices 2024 (Sec 3)")
