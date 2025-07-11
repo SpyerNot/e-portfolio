@@ -15,7 +15,7 @@ if option == "Translator":
 if option == "Secret Santa":
     st.link_button("Secret Santa website", "https://secretsanta22.vercel.app/")
     st.link_button("Github repo","https://github.com/frosetrain/secretsanta")
-    st.write("This is another of my hackathon project which is secret santa to promote giving gifts")
+    st.write("This is another of my hackathon project which is secret santa to promote giving gifts, I am added as the collaborator")
 
 
 
