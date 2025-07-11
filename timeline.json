@@ -25,31 +25,48 @@
       },
       {
         "media": {
-          "url": "https://www.youtube.com/watch?v=CmSKVW1v0xM",
-          "caption": "Streamlit Components (<a target=\"_blank\" href='https://streamlit.io/'>credits</a>)"
+          "url": "https://drive.google.com/file/d/1P4f0fKzPbA5dnxsByjytzet_3fctlLhm/view?usp=sharing",
+          "caption": "This photo is the prize award ceremony award when I won 2nd for the Design Innovation Challenge",
+          "credit": "https://www.sgs.moe.edu.sg/students-academic-achievements/"
         },
         "start_date": {
-          "year": "2020",
-          "month":"7",
-          "day":"13"
+          "year": "2024",
+          "month":"5",
+          "day":"21"
         },
         "text": {
-          "headline": "Streamlit Components<br>version 0.63.0",
-          "text": "Streamlit lets you turn data scripts into sharable web apps in minutes, not weeks. It's all Python, open-source, and free! And once you've created an app you can use our free sharing platform to deploy, manage, and share your app with the world."
+          "headline": "Design Innovation Challenge",
+          "text": "This was when I coded my first project which is the Fitness App for this challenge and won 2nd Place with my teammates. It was so memorable as I seen many other projects that felt like is better then ours. But we came out as 2nd Place, my teammates and I were so shocked to see the results and tears of joy came out from our eyes."
         }
       },
       {
         "media": {
-          "url": "https://github.com/innerdoc/streamlit-timeline/raw/main/component-logo.png",
-          "caption": "github/innerdoc (<a target=\"_blank\" href='https://www.github.com/innerdoc/'>credits</a>)"
+          "url": "https://drive.google.com/file/d/1OkjPbXrnlmNwzJxNc9B2XXZt2-0cWjTn/view?usp=sharing",
+          "caption": "Me controlling the drone for air surveying"
         },
         "start_date": {
-          "year": "2021",
-          "month":"2"
+          "year": "2024",
+          "month":"11",
+          "day": "7"
         },
         "text": {
-          "headline": "Streamlit TimelineJS component",
-          "text": "Started with a demo on https://www.innerdoc.com/nlp-timeline/ . <br>Then made a <a href='https://github.com/innerdoc/streamlit-timeline'>Streamlit component</a> of it. <br>Then made a <a href='https://pypi.org/project/streamlit-timeline/'>PyPi package</a> for it."
+          "headline": "First time controlling the drone to do aerial surveying",
+          "text": "On that day, my schoolmates that was in the same work shadowing programme as me flew the drone to do aerial surveying, we learnt what technology is behind aerial surveying."
+        }
+      },
+      {
+        "media": {
+            "url": "https://drive.google.com/file/d/1OnKQ_9bFk43REu0L7Q13OdUAD1yNSOPl/view?usp=sharing",
+            "caption": "Using the drone to take a Group Photo"
+        },
+        "start_date":{
+            "year": "2024",
+            "month":"11",
+            "day":"7"
+        },
+        "text":{
+            "headline": "A group photo taken using the drone before finishing aerial surveying and going back to the office",
+            "text": "After learning about the drone and using the drone outside at a flying zone to do the aerial surveying, before we ended we took a photo using the drone to end this part and going back to the office to learn more things like creating maps"
         }
       }
     ]
