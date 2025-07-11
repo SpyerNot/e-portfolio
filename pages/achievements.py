@@ -43,7 +43,7 @@ with col16:
 with col17:
     st.image("cert/juneconf2025.png",caption="BuildingBloCS June Conference 2025 (Sec 4)")
 with col18:
-    st.image("cert/nypcyber2025.png",caption="NYP course taster workshop for Cybersecurity and Digtial Forensics (Sec 4)")
+    st.image("cert/junehack2025.png",caption="BuildingBloCS June Conference Hackathon 2025 (Sec 4)")
 col19,col20,col21=st.columns(3)
 with col19:
     st.image("cert/nypsoft2025.png",caption="NYP course taster workshop for Information Technology (Sec 4)")
