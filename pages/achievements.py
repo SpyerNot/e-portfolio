@@ -39,23 +39,23 @@ with col15:
     st.image("cert/dechack.png",caption="BuildingBloCS December Conference Hackathon 2024 (Sec 3) ")
 col16,col17,col18=st.columns(3)
 with col16:
-    st.image("cert/top2024.jpg",caption="Top in Computing 2024 (Sec 3)")
+    st.image("cert/marchhack2025.png",caption="BuildingBloCS March Conference Hackathon 2025 (Sec 4)")
 with col17:
-    st.image("cert/ybnctf2024.jpg",caption="Yes But No Capture the Flag 2024 (Sec 3)")
+    st.image("cert/juneconf2025.png",caption="BuildingBloCS June Conference 2025 (Sec 4)")
 with col18:
     st.image("cert/nypcyber2025.png",caption="NYP course taster workshop for Cybersecurity and Digtial Forensics (Sec 4)")
 col19,col20,col21=st.columns(3)
 with col19:
     st.image("cert/nypsoft2025.png",caption="NYP course taster workshop for Information Technology (Sec 4)")
 with col20:
-    st.image("cert/IDE2024.png",caption="IDE Series Competition (Sec 3)")
+    st.image("cert/nypcyber2025.png",caption="NYP course taster workshop for Cybersecurity and Digtial Forensics (Sec 4)")
 with col21:
-    st.image("cert/marchhack2025.png",caption="BuildingBloCS March Conference Hackathon 2025 (Sec 4)")
+    st.image("cert/top2024.jpg",caption="Top in Computing 2024 (Sec 3)")
 col22,col23,col24=st.columns(3)
 with col22:
-    st.image("cert/juneconf2025.png",caption="BuildingBloCS June Conference 2025 (Sec 4)")
+    st.image("cert/ybnctf2024.jpg",caption="Yes But No Capture the Flag 2024 (Sec 3)")
 with col23:
-    st.image("cert/junehack2025.png",caption="BuildingBloCS June Conference Hackathon 2025 (Sec 4)")
+    st.image("cert/IDE2024.png",caption="IDE Series Competition (Sec 3)")
 with col24:
     st.image("cert/YCEP2025.png",caption="YCEP Bootcamp 2025 participation certificate at NYP (Sec 4)")
 col25,col26,col27=st.columns(3)
