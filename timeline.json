@@ -20,7 +20,7 @@
         },
         "text": {
           "headline": "ApLM@SP",
-          "text": "I went for ApLM when I was Sec 3"
+          "text": "I went for ApLM when I was Sec 3 on Gene Explorer which is Applied Science. I am also interested in Biology so this ApLM was able to let me learn a bit more about it which expanded my knowledge"
         }
       },
       {
@@ -97,6 +97,81 @@
         "text":{
             "heading":"VIA 2024",
             "text": "This is a photo of me doing the breifing for the phone stand VIA project to the seniors, to let the seniors know what to expect and what to do later when they are going to make the phone stand with the students assistant. This is the 2nd session of our VIA"
+        }
+      },
+      {
+        "media": {
+            "url": "https://drive.google.com/file/d/1Op0P2SjZ7MaWClJjqkMWihrT1eMLzltN/view?usp=sharing",
+            "caption": "Me typing information in my teammates laptop"
+        },
+        "start_date": {
+            "year":"2025",
+            "month":"4",
+            "day":"5"
+        },
+        "text":{
+            "heading":"YCEP 2025",
+            "text": "This is a photo of me at YCEP when competiting for the Group Category, it was my first time competiting in a group category for CTF, I really did not know what to expect. Luckily my teammates guided me on what I should do and help on the documents with my knowledge"
+        }
+      },
+      {
+        "media": {
+            "url": "https://drive.google.com/file/d/1P1MwUFXhgkD5XMOUFkUjQ6ku8QitTYls/view?usp=sharing",
+            "caption": "A photo of me during the break of YCEP"
+        },
+        "start_date": {
+            "year": "2025",
+            "month":"4",
+            "day":"5"
+        },
+        "text":{
+            "heading":"YCEP 2025",
+            "text": "This is a photo of me talking to my friend when I met her at the YCEP Bootcamp. This was during the break and I saw her at her seat, since the individual category CTF has ended. So I went up to her and shared my experience since she missed that part, and the person beside also joined into the conversation sharing his point of view. That experience was special as I really dont get the opportunity to share stuff related to CTF with others. That was one of my only chances"
+        }
+      },
+      {
+        "media": {
+            "url": "https://drive.google.com/file/d/1Ogg6Y0hIRuq5gy-lgtUhtX2MRjjtDKGg/view?usp=sharing",
+            "caption": "A certificate on WSP"
+        },
+        "start_date":{
+            "year" : "2024",
+            "month" : "11",
+            "day" : "8"
+        },
+        "text": {
+            "heading": "WSP 2024",
+            "text": "After the WSP at Singapore Institute of Surveyors and Valuers ended for me, I got a certificate! My time in Singapore Institute of Surveyors and Valuers was unique as it was my first time learning about this occupation. Being able to experience land, aerial and marine surveying was really amazing. Who knew I would be able to experience all these :D"
+        }
+      },
+      {
+        "media":{
+            "url": "https://drive.google.com/file/d/16xudzfJnTnl1d3SFlPEa-2RIoG_cGlyF/view?usp=sharing",
+            "caption": "YBN CTF certificate"
+        },
+        "start_date": {
+            "year": "2024",
+            "month": "11",
+            "day": "30"
+        },
+        "text": {
+            "heading": "My first ever CTF!",
+            "text": "This is when I played in my first ever CTF! It was by Yes But No. After that I fell in love with playing CTF and joined when I get the chance to. I love playing in Crypto and Web Category, however I only know the basics of it and hope that I can improve further"
+        }
+      },
+      {
+        "media": {
+            "url": "https://drive.google.com/file/d/1PS2k3e96WXhocUhFa0VdOEDbmIBlNmOO/view?usp=sharing",
+            "caption":"BuildingBloCS Hackathon Certificate"
+        },
+        "start_date": {
+            "year": "2024",
+            "month":"3",
+            "day": "13"
+        },
+        "text": {
+            "heading": "My first ever Hackthon!",
+            "text":"This is when I competed in my first ever Hackathon! It was by BuildingBloCS, I had to go for a conference to learn things that would be necessary in this Hackathon which is learning NumPy, matplotlib and seaborn and using them in the Hackathon Project. In the end, we got 1st place by showing the data on the topic what makes singaporeans feel like they are sinagporeans. This hackathon also let me wanted to participate in more hackathon to see what I can code out to contribute to the society"
         }
       }
     ]
