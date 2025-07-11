@@ -95,7 +95,7 @@
             "day":"23"
         },
         "text":{
-            "heading":"VIA 2024",
+            "headline":"VIA 2024",
             "text": "This is a photo of me doing the breifing for the phone stand VIA project to the seniors, to let the seniors know what to expect and what to do later when they are going to make the phone stand with the students assistant. This is the 2nd session of our VIA"
         }
       },
@@ -110,7 +110,7 @@
             "day":"5"
         },
         "text":{
-            "heading":"YCEP 2025",
+            "headline":"YCEP 2025",
             "text": "This is a photo of me at YCEP when competiting for the Group Category, it was my first time competiting in a group category for CTF, I really did not know what to expect. Luckily my teammates guided me on what I should do and help on the documents with my knowledge"
         }
       },
@@ -125,7 +125,7 @@
             "day":"5"
         },
         "text":{
-            "heading":"YCEP 2025",
+            "headline":"YCEP 2025",
             "text": "This is a photo of me talking to my friend when I met her at the YCEP Bootcamp. This was during the break and I saw her at her seat, since the individual category CTF has ended. So I went up to her and shared my experience since she missed that part, and the person beside also joined into the conversation sharing his point of view. That experience was special as I really dont get the opportunity to share stuff related to CTF with others. That was one of my only chances"
         }
       },
@@ -140,7 +140,7 @@
             "day" : "8"
         },
         "text": {
-            "heading": "WSP 2024",
+            "headline": "WSP 2024",
             "text": "After the WSP at Singapore Institute of Surveyors and Valuers ended for me, I got a certificate! My time in Singapore Institute of Surveyors and Valuers was unique as it was my first time learning about this occupation. Being able to experience land, aerial and marine surveying was really amazing. Who knew I would be able to experience all these :D"
         }
       },
@@ -155,7 +155,7 @@
             "day": "30"
         },
         "text": {
-            "heading": "My first ever CTF!",
+            "headline": "My first ever CTF!",
             "text": "This is when I played in my first ever CTF! It was by Yes But No. After that I fell in love with playing CTF and joined when I get the chance to. I love playing in Crypto and Web Category, however I only know the basics of it and hope that I can improve further"
         }
       },
@@ -170,7 +170,7 @@
             "day": "13"
         },
         "text": {
-            "heading": "My first ever Hackthon!",
+            "headline": "My first ever Hackthon!",
             "text":"This is when I competed in my first ever Hackathon! It was by BuildingBloCS, I had to go for a conference to learn things that would be necessary in this Hackathon which is learning NumPy, matplotlib and seaborn and using them in the Hackathon Project. In the end, we got 1st place by showing the data on the topic what makes singaporeans feel like they are sinagporeans. This hackathon also let me wanted to participate in more hackathon to see what I can code out to contribute to the society"
         }
       }
