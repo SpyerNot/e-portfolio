@@ -56,3 +56,10 @@ with col22:
     st.image("cert/juneconf2025.png",caption="BuildingBloCS June Conference 2025 (Sec 4)")
 with col23:
     st.image("cert/junehack2025.png",caption="BuildingBloCS June Conference Hackathon 2025 (Sec 4)")
+with col24:
+    st.image("cert/YCEP2025.png",caption="YCEP Bootcamp 2025 participation certificate at NYP (Sec 4)")
+col25,col26,col27=st.columns(3)
+with col25:
+    st.image("cert/YCEP2025indiv.png",captions="YCEP Finals 2025 Individual Category (Sec 4)")
+with col26:
+    st.image("cert/Low Li Wen_Certificate_of_Excellence_Group.png",caption="YCEP Finals 2025 6th Place for Group Category (Sec 4)")
