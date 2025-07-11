@@ -16,7 +16,7 @@ if my_portfolio:
 if translator:
     st.link_button("Translator App","https://translator-ixyqcckissjuf57apt9kec.streamlit.app/")
     st.link_button("Github repo", "https://github.com/SpyerNot/Translator")
-    st.write("This is one of my hackathon project with my team to solve the issue on slur speech communication")
+    st.write("This is one of my hackathon project with my team to have an audio to text translation")
 if secret_santa:
     st.link_button("Secret Santa website", "https://secretsanta22.vercel.app/")
     st.link_button("Github repo","https://github.com/frosetrain/secretsanta")
