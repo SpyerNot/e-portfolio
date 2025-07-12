@@ -6,8 +6,6 @@ st.html("<p id = 'name', align = 'left'>My name is <span class='name'>Low Li Wen
 col1,col2,col3=st.columns(3)
 with col1:
     st.image("pages/Screenshot_20250711_231947_WhatsApp.jpg", caption="Me when I was bowling")
-with col2:
-    st.image("pages/cube.jpg", caption="Me when I was cubing, got a 11s :D")
 with col3:
     st.image("pages/20221119_174441.jpg",caption="Me in my first ever speed cubing competition")
 st.html("<div></div>")
