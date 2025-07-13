@@ -189,6 +189,37 @@
             "headline": "Top in Computing!",
             "text": "This is when I got Top in Computing in Sec 3. It felt like a dream as I did not expect myself to get Top in Computing but I mean, at least my hardwork paid off right? (if you would like to see the cert, it is in the achievements page)"
         }
+      },
+      {
+        "media":{
+          "url": "https://drive.google.com/file/d/1Rpxt0tVBNJ5DCnBrNe54peKi2-2xbQ3G/view?usp=sharing",
+          "caption": "Group photo after prize presentation",
+          "credit": "Serangoon Garden Secondary School (Facebook)"
+        },
+        "start_date": {
+          "year" : "2022",
+          "month": "4",
+          "day": "29"
+        },
+        "text":{
+          "headline":"My first ever competition in school!",
+          "text":"This is a prize presentation photo after completing in the Amazing Race and my team even won first place! It is a humanities amazing race and we learnt a lot more about our country. That time was in Sec 1 so being able to join this amazing race allow me to learn more about Singapore's history and geography."
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/file/d/1RmhdJuU3vJtmlFeRpRvG9See4dO3WVua/view?usp=sharing",
+          "caption": "Group photo after farewell party"
+        },
+        "start_date": {
+          "year": "2025",
+          "month": "7",
+          "day": "10"
+        },
+        "text":{
+          "headline":"CCA Farewell party",
+          "text": "As a Sec 4 student this year, I had to step down from my CCA role as a vice-president and say goodbye to the CCA to prepare for O levels, so my CCA juniors planned a farewell party for the Sec 4 to wish them good luck for their O levels."
+        }
       }
     ]
 }
