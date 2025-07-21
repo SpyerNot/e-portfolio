@@ -68,3 +68,5 @@ with col27:
 col28,col29,col30=st.columns(3)
 with col28:
     st.image("cert/eagles2024.jpg",caption="Edusave Award for Achievement, Good Leadership and Sevices 2024 (Sec 3)")
+with col29:
+    st.image("cert/ssmctf2025.png",caption="SSMCTF 2025 (Sec 4)")
